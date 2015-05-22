@@ -2,6 +2,7 @@
 
 ##Overview
 ![2014 Template](https://raw.githubusercontent.com/iJadou/QuranMP3Covers/master/Covers/2014/Abdulbasit_Mojawwd.jpg)
+<br/>
 An attempt to unified the look and feel of all [MP3Quran](http://www.mp3quran.net) albums covers.
 
 ##Usage
