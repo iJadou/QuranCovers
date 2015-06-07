@@ -41,7 +41,7 @@ You can use [MP3Tags](http://www.mp3tag.de/en/download.html) to edit the default
 - Creating new themes and template in 'Template' folder; therefor adding related folders in 'Covers' folder.
 
 ##Copyrights
-###2015
+###2015, Patroit, PatroitLight, Comfort, and Comfort45
 - The used fonts are 
     - NameEN  **HelveticaNeueLTStd**
     - RewayatEN **HelveticaNeueLTStd**
