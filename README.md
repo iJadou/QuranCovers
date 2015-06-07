@@ -10,7 +10,7 @@ An attempt to unified the look and feel of all [MP3Quran](http://www.mp3quran.ne
   <img src="https://raw.githubusercontent.com/iJadou/QuranCovers/master/Covers/2015/jpg/2015_27.jpg" alt="2014 Cover Sample">
 </p>
 
-#2014 Cover -  - *[Preview](https://raw.githubusercontent.com/iJadou/QuranMP3Covers/master/Covers/2014/Abdulbasit_Mojawwd.jpg)*
+#2014 Cover - *deprecated* - *[Preview](https://raw.githubusercontent.com/iJadou/QuranMP3Covers/master/Covers/2014/Abdulbasit_Mojawwd.jpg)*
 
 
 ##Usage
