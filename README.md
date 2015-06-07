@@ -1,7 +1,7 @@
 #Al Quran Al Kareem MP3 Albums Covers
 
 <div style="text-align:center">
-![2014 Template](https://raw.githubusercontent.com/iJadou/QuranMP3Covers/master/Covers/2014/Abdulbasit_Mojawwd.jpg)
+  <img src="https://raw.githubusercontent.com/iJadou/QuranMP3Covers/master/Covers/2014/Abdulbasit_Mojawwd.jpg" alt="2014 Cover Sample">
 </div>
 
 ##Overview
