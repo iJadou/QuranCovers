@@ -5,7 +5,7 @@ An attempt to unified the look and feel of all [MP3Quran](http://www.mp3quran.ne
 - 2015 Covers are 1600*1600px.
 - All names in the data set from [MP3Quran](http://www.mp3quran.net) - *(Last update: 06/07/2015)*.
 
-###2015 Cover
+###2015 Cover (Refined)
 <p align="center">
   <img src="https://raw.githubusercontent.com/iJadou/QuranCovers/master/Covers/2015/jpg/2015_27.jpg" alt="2015 Cover Sample">
 </p>
