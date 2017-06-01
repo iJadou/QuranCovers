@@ -36,7 +36,7 @@ An attempt to unified the look and feel of all [MP3Quran](http://www.mp3quran.ne
 ## Usage
 You can use [MP3Tags](http://www.mp3tag.de/en/download.html) to edit the default album cover.
 
-##Contribute
+## Contribute
 - Adding new names to the Data set 'data.txt' in the end of the document. 
 - Creating new themes and template in 'Template' folder; therefor adding related folders in 'Covers' folder.
 
