@@ -7,7 +7,7 @@ ID, NameEN, RewayatEN, NameAR, RewayatAR
 6, Abdulbasit Abdulsamad, Rewayat Hafs A'n Assem, عبدالباسط عبدالصمد, حفص عن عاصم
 7, Abdulbasit Abdulsamad, Rewayat Warsh A'n Nafi', عبدالباسط عبدالصمد, ورش عن نافع
 8, Abdulbasit Abdulsamad, Almusshaf Al Mojawwad, عبدالباسط عبدالصمد, المصحف المجود
-9, Abdulghani Abdullah (From Malaysia), Rewayat Hafs A'n Assem, عبدالغني عبدالله ( من ماليزيا ), حفص عن عاصم
+9, Abdulghani Abdullah, Rewayat Hafs A'n Assem, عبدالغني عبدالله, حفص عن عاصم
 10, Abdulhadi Kanakeri, Rewayat Hafs A'n Assem, عبدالهادي أحمد كناكري, حفص عن عاصم 
 11, Abdullah Al-Burimi, Rewayat Hafs A'n Assem, عبدالله البريمي, حفص عن عاصم
 12, Abdullah Al-Johany, Rewayat Hafs A'n Assem, عبدالله عواد الجهني, حفص عن عاصم
@@ -15,7 +15,7 @@ ID, NameEN, RewayatEN, NameAR, RewayatAR
 14, Abdullah Al-Mattrod, Rewayat Hafs A'n Assem, عبدالله المطرود, حفص عن عاصم
 15, Abdullah Albuajan, Rewayat Hafs A'n Assem, عبدالله البعيجان, حفص عن عاصم
 16, Abdullah Basfer, Rewayat Hafs A'n Assem, عبدالله بصفر, حفص عن عاصم
-17, Abdullah Fahmi (From Malaysia), Rewayat Hafs A'n Assem, عبدالله فهمي ( من ماليزيا ), حفص عن عاصم
+17, Abdullah Fahmi, Rewayat Hafs A'n Assem, عبدالله فهمي, حفص عن عاصم
 18, Abdullah Khayyat, Rewayat Hafs A'n Assem, عبدالله خياط, حفص عن عاصم
 19, Abdullah Qaulan, Rewayat Hafs A'n Assem, عبدالله غيلان, حفص عن عاصم
 20, Abdulmohsen Al-Qasim, Rewayat Hafs A'n Assem, عبدالمحسن القاسم, حفص عن عاصم
@@ -40,7 +40,7 @@ ID, NameEN, RewayatEN, NameAR, RewayatAR
 39, Ahmad Saud, Rewayat Hafs A'n Assem, أحمد سعود, حفص عن عاصم
 40, Ahmed Al-Trabulsi, Rewayat Hafs A'n Assem, أحمد الطرابلسي, حفص عن عاصم
 41, Ahmed Amer, Rewayat Hafs A'n Assem, أحمد عامر, حفص عن عاصم
-42, Akhil Abdulhayy Rawa (From Malaysia), Rewayat Hafs A'n Assem, أخيل عبدالحي روا (من ماليزيا), حفص عن عاصم
+42, Akhil Abdulhayy Rawa, Rewayat Hafs A'n Assem, أخيل عبدالحي روا (من ماليزيا), حفص عن عاصم
 43, Akram Alalaqmi, Rewayat Hafs A'n Assem, أكرم العلاقمي, حفص عن عاصم 
 44, Al-Qaria Yassen, Rewayat Warsh A'n Nafi', القارئ ياسين, ورش عن نافع
 45, Alashri Omran, Rewayat Hafs A'n Assem, العشري عمران, حفص عن عاصم
@@ -111,7 +111,7 @@ ID, NameEN, RewayatEN, NameAR, RewayatAR
 110, Mohammed Al-Lohaidan, Rewayat Hafs A'n Assem, محمد اللحيدان, حفص عن عاصم
 111, Mohammed Al-Muhasny, Rewayat Hafs A'n Assem, محمد المحيسني, حفص عن عاصم
 112, Mohammed Ayyub, Rewayat Hafs A'n Assem, محمد أيوب, حفص عن عاصم
-113, Mohammed Hafas Ali (From Malaysia), Rewayat Hafs A'n Assem, محمد حفص علي ( من ماليزيا ), حفص عن عاصم
+113, Mohammed Hafas Ali, Rewayat Hafs A'n Assem, محمد حفص علي, حفص عن عاصم
 114, Mohammed Jibreel, Rewayat Hafs A'n Assem, محمد جبريل, حفص عن عاصم
 115, Mohammed Osman Khan (from India), Rewayat Hafs A'n Assem, محمد عثمان خان ( من الهند ), حفص عن عاصم
 116, Mohammed Siddiq Al-Minshawi, Almusshaf Al Mo'lim, محمد صديق المنشاوي, المصحف المعلم
@@ -124,8 +124,8 @@ ID, NameEN, RewayatEN, NameAR, RewayatAR
 123, Muftah Alsaltany, Sho'bah A'n Asim, مفتاح السلطني, شعبة  عن عاصم
 124, Muftah Alsaltany, Rewayat Aldori A'n Abi Amr, مفتاح السلطني, الدوري عن أبي عمرو
 125, Muftah Alsaltany, Rewayat AlDorai A'n Al-Kisa'ai, مفتاح السلطني, الدوري عن الكسائي
-126, Muhammad Al-Hafiz (From Malaysia), Rewayat Hafs A'n Assem, محمد الحافظ ( من ماليزيا ), حفص عن عاصم
-127, Muhammed Khairul Anuar (From Malaysia), Rewayat Hafs A'n Assem, محمد خير النور ( من ماليزيا ), حفص عن عاصم
+126, Muhammad Al-Hafiz, Rewayat Hafs A'n Assem, محمد الحافظ, حفص عن عاصم
+127, Muhammed Khairul Anuar, Rewayat Hafs A'n Assem, محمد خير النور, حفص عن عاصم
 128, Mustafa Al-Lahoni, Rewayat Hafs A'n Assem, مصطفى اللاهوني, حفص عن عاصم
 129, Mustafa Ismail, Rewayat Hafs A'n Assem, مصطفى إسماعيل, حفص عن عاصم
 130, Mustafa raad Alazawy, Rewayat Hafs A'n Assem, مصطفى رعد العزاوي, حفص عن عاصم
@@ -137,12 +137,12 @@ ID, NameEN, RewayatEN, NameAR, RewayatAR
 136, Othman Al-Ansary, Rewayat Hafs A'n Assem, عثمان الأنصاري, حفص عن عاصم
 137, Rachid Belalya, Rewayat Hafs A'n Assem, رشيد بلعالية, حفص عن عاصم
 138, Rasheed Ifrad, Rewayat Hafs A'n Assem, رشيد إفراد, حفص عن عاصم
-139, Rodziah Abdulrahman (From Malaysia), Rewayat Hafs A'n Assem, رضية عبدالرحمن ( من ماليزيا ), حفص عن عاصم
-140, Rogayah Sulong (From Malaysia), Rewayat Hafs A'n Assem, رقية سولونق ( من ماليزيا ), حفص عن عاصم 
+139, Rodziah Abdulrahman, Rewayat Hafs A'n Assem, رضية عبدالرحمن, حفص عن عاصم
+140, Rogayah Sulong, Rewayat Hafs A'n Assem, رقية سولونق, حفص عن عاصم 
 141, Saad Al-Ghamdi, Rewayat Hafs A'n Assem, سعد الغامدي, حفص عن عاصم
 142, Saber Abdulhakm, Rewayat Hafs A'n Assem, صابر عبدالحكم, حفص عن عاصم
 143, Sahl Yassin, Rewayat Hafs A'n Assem, سهل ياسين, حفص عن عاصم
-144, Saidin Abdulrahman (From Malaysia), Rewayat Hafs A'n Assem, سيدين عبدالرحمن ( من ماليزيا ), حفص عن عاصم
+144, Saidin Abdulrahman, Rewayat Hafs A'n Assem, سيدين عبدالرحمن, حفص عن عاصم
 145, Salah Al-Budair, Rewayat Hafs A'n Assem, صلاح البدير, حفص عن عاصم
 146, Salah Al-Hashim, Rewayat Qalon A'n Nafi', صلاح الهاشم, قالون عن نافع
 147, Salah Al-Hashim, Rewayat Hafs A'n Assem, صلاح الهاشم, حفص عن عاصم
@@ -151,15 +151,15 @@ ID, NameEN, RewayatEN, NameAR, RewayatAR
 150, Saleh Al-Sahood, Rewayat Hafs A'n Assem, صالح الصاهود, حفص عن عاصم
 151, Sami Al-Dosari, Rewayat Hafs A'n Assem, سامي الدوسري, حفص عن عاصم
 152, Sami Al-Hasn, Rewayat Hafs A'n Assem, سامي الحسن, حفص عن عاصم
-153, Sapinah Mamat (From Malaysia), Rewayat Hafs A'n Assem, سابينة مامات ( من ماليزيا ), حفص عن عاصم
+153, Sapinah Mamat, Rewayat Hafs A'n Assem, سابينة مامات, حفص عن عاصم
 154, Saud Al-Shuraim, Rewayat Hafs A'n Assem, سعود الشريم, حفص عن عاصم 
 155, Sayeed Ramadan, Rewayat Hafs A'n Assem, سيد رمضان, حفص عن عاصم
 156, Shaban Al-Sayiaad, Rewayat Hafs A'n Assem, شعبان الصياد, حفص عن عاصم
 157, Shirazad Taher, Rewayat Hafs A'n Assem, شيرزاد عبدالرحمن طاهر, حفص عن عاصم
 158, Slaah Bukhatir, Rewayat Hafs A'n Assem, صلاح بو خاطر, حفص عن عاصم 
-159, Tareq Abdulgani daawob, Rewayat Hafs A'n Assem, طارق عبدالغني دعوب, حفص عن عاصم
+159, Tareq Abdulgani Daawob, Rewayat Hafs A'n Assem, طارق عبدالغني دعوب, حفص عن عاصم
 160, Tawfeeq As-Sayegh, Rewayat Hafs A'n Assem, توفيق الصايغ, حفص عن عاصم
-161, Ustaz Zamri (From Malaysia), Rewayat Hafs A'n Assem, استاذ زامري (من ماليزيا), حفص عن عاصم
+161, Ustaz Zamri, Rewayat Hafs A'n Assem, استاذ زامري (من ماليزيا), حفص عن عاصم
 162, Wadeea Al-Yamani, Rewayat Hafs A'n Assem, وديع اليمني, حفص عن عاصم
 163, Waleed Al-Naehi, Rewayat Qalon A'n Nafi' Men Tariq Abi Nasheet, وليد النائحي, قالون عن نافع من طريق أبي نشيط
 164, Walid Al-Dulaimi, Rewayat Hafs A'n Assem, وليد الدليمي, حفص عن عاصم
